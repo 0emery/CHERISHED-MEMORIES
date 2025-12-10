@@ -1,0 +1,7 @@
+{
+  "name": "CHERISHED MEMORIES",
+  "description": "A high-fidelity 3D interactive experience featuring a morphing luxury Christmas tree with physics-based gesture controls and magical particle effects.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
